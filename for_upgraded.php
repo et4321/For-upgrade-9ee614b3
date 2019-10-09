@@ -9,4 +9,5 @@ $klas = array(
 foreach ($klas as &$value){
     echo "$value";
 }
+
 ?>
