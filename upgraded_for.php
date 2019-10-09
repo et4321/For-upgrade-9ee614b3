@@ -10,5 +10,4 @@ foreach ($klas as &$value){
     echo "$value";
 }
 
-
 ?>
